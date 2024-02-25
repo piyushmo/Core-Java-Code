@@ -1,0 +1,14 @@
+Demo{
+Demo(int a){
+}
+Demo2 extends Demo{
+Demo(int a, int b){
+}
+Demo2(){
+Super(10);
+}
+}
+public static void main(){
+Demo2 demo2 = new Demo2();
+}
+Demo2 d = new Demo2();

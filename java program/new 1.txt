@@ -1,0 +1,6 @@
+class person {
+private long aadhar;
+private String firstName;
+private String middleName;
+private String lastName;
+private long homeLane;
